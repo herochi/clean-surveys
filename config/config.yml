@@ -1,0 +1,12 @@
+JWT_SECRET: "CAPITAN"
+
+ENV: "DEV"
+ 
+PORT: "3500"
+PORT_DEV: "8080"
+
+MONGO:
+  URI: "mongodb://192.168.1.112:27017"
+  URI_DEV: "mongodb://localhost:27017"
+  DATABASE: "generador_de_encuestas"
+  DATABASE_DEV: "generador_de_encuestas" 
