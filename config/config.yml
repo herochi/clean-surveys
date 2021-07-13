@@ -10,3 +10,6 @@ MONGO:
   URI_DEV: "mongodb://localhost:27017"
   DATABASE: "generador_de_encuestas"
   DATABASE_DEV: "generador_de_encuestas" 
+
+
+  
